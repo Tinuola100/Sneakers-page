@@ -118,6 +118,7 @@ width: 474px;}
     width: 70px;
     padding: 5px;
     display: flex;
+    border-radius: 5px;
 justify-content: left;
 font-size: large;
 font-weight:bold ;}
@@ -147,6 +148,7 @@ font-weight:bold ;
             border: none;
             height: 1cm;
             width: 50px;
+            border-radius: 5px;
             padding: 5px;
             display: flex;
             justify-content: center;
